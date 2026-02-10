@@ -137,6 +137,7 @@ nftset=/cdw.com/4#inet#fw4#vpn_domains
 nftset=/censor.net/4#inet#fw4#vpn_domains
 nftset=/censortracker.org/4#inet#fw4#vpn_domains
 nftset=/chaos.com/4#inet#fw4#vpn_domains
+nftset=/charts.bitnami.com/4#inet#fw4#vpn_domains
 nftset=/chat.com/4#inet#fw4#vpn_domains
 nftset=/chat.openai.com.cdn.cloudflare.net/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
